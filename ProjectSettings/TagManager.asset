@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArkaPlan
+    uniqueID: 1491453153
+    locked: 0
+  - name: Dekor
+    uniqueID: 829441261
+    locked: 0
+  - name: Zemin
+    uniqueID: 187304497
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 205535431
+    locked: 0
+  - name: Amele
+    uniqueID: 1490551263
+    locked: 0
+  - name: "\xD6nPlan"
+    uniqueID: 3237100993
+    locked: 0
