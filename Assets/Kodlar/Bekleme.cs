@@ -22,6 +22,16 @@ public class Bekleme : DurumKodu
         {
             amele.SwitchState(amele.ziplama);
         }
+        // dusme durumuna geçiþ
+        if (amele.AmeleRb.velocity.y < 0)
+        {
+            amele.SwitchState(amele.dusme);
+        }
+        //ateþ etme durumuna geçiþ
+        if (amele.saldiriGirdi > 0)
+        {
+            amele.SwitchState(amele.atesEtme);
+        }
     }
     public override void ExitState(AmeleHareket amele)
     {

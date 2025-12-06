@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Zemin
+  - Dusman
   layers:
   - Default
   - TransparentFX
@@ -12,9 +14,9 @@ TagManager:
   - Water
   - UI
   - Zemin
-  - 
-  - 
-  - 
+  - mermi
+  - Dusman
+  - Amele
   - 
   - 
   - 
@@ -55,6 +57,9 @@ TagManager:
     locked: 0
   - name: Amele
     uniqueID: 1490551263
+    locked: 0
+  - name: mermi
+    uniqueID: 4132119249
     locked: 0
   - name: "\xD6nPlan"
     uniqueID: 3237100993

@@ -24,6 +24,11 @@ public class Yurume : DurumKodu
         {
             amele.SwitchState(amele.ziplama);
         }
+        //ateþ etme durumuna geçiþ
+        if (amele.saldiriGirdi > 0)
+        {
+            amele.SwitchState(amele.atesEtme);
+        }
     }
     public override void ExitState(AmeleHareket amele)
     {
